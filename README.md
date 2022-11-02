@@ -4,8 +4,6 @@
 
 ## How to start
 
-Fork the repository.
-
 Install ViteJs with the command npm i vite
 
 Run the GH action by push your modification to the main branch
